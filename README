@@ -24,10 +24,12 @@ Date: 2012 '12 '08
 - Bufferstrategy(3): why not (2) because it's better than a double buffer, and its more fluent with rendering and every system will be able to run it (smoothly)
 - Timer (console written)
 - FPS meter (in the menu bar)(don't know if it works on linux or mac why: because I simpely don't own a mac or linux pc/laptop)
+- Implemented Spritesheet usage
+- Single Sprite usage
+- created sprites: ("Grass, Sand, sandRoad, cobbleRoad, brickRoad")
 
 To Do:
-- Spritesheet implementation
-- Sprites
+- Lever Creation
 - Guilds
 - Groups
 - Dungeons
@@ -36,4 +38,6 @@ To Do:
 - Questlog
 - Quests
 - NPC implementation
+- Magic
+- Range
 - Mod/Addon API 
