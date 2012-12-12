@@ -1,6 +1,7 @@
 #########################
 # Code by xShamelessX   #
 # With help by: Cherno  #
+# Crew: Danielnino      #
 # Date of Creation      #
 # 2012 '12 '08          #
 #########################
@@ -34,8 +35,15 @@ Date: 2012 '12 '10
 - Creating sprites (already done grass, sand, dirtRoad, cobbleRoad and changed brickRoad to marketSquareTile also am i creating borders and corners for the roads so be patient :P)
 - I have been declaring sprites and tiles alot >.<
 
+Date: 2012 '12 '12
+- created some more sprites and here is a list of sprites that will be implented : http://pastie.org/5514933
+- also have I been talking to a partner "Dani" and he can manage to get us music creator for our game,
+- also have I fixed the movement bug and created the first real map(64 by 64)and will be enlarged on a better scale,
+- also has the map only included the grassSprite atm and doesn't render anything else yet i want to have a perfect rendering without "ArrayOutOfBounds -1/-64" by y0 pixel and y63 pixel
+
+
 To Do:
-- Leven Creation 10% done
+- Level Creation 10% done
 - Map Creation
 - Towns
 - Dungeons
